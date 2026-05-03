@@ -2,12 +2,12 @@
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
   "database": {
-    "bytes": 2650146,
+    "bytes": 66978202,
     "path": "data/njtransitRail/database_db.zip",
-    "sha256": "d985d5e8e9bf2a5823a1d31ebc56a562f391c5c124e546576bb604fb71fe5452",
+    "sha256": "5f2deb52cf7b894dff27961a86ff8afd763436f1bd38acd2297d508bf49f5bce",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/database_db.zip"
   },
-  "generatedAt": "2026-05-03T18:29:22Z",
+  "generatedAt": "2026-05-03T18:49:41Z",
   "gitSha": "8d30d6a092af37c456e88c331c8763db8895780e",
   "schemaVersion": 1,
   "service": {
@@ -19,5 +19,19 @@
     "bytes": 3435661,
     "sha256": "f0a77ed4dcc6356b71c345e57771a990ddac8e7a4778d1a22c4cd69642919015",
     "url": "https://www.njtransit.com/rail_data.zip"
-  }
+  },
+  "sources": [
+    {
+      "bytes": 3435661,
+      "name": "njtransit",
+      "sha256": "f0a77ed4dcc6356b71c345e57771a990ddac8e7a4778d1a22c4cd69642919015",
+      "url": "https://www.njtransit.com/rail_data.zip"
+    },
+    {
+      "bytes": 52515336,
+      "name": "njtransit-bus",
+      "sha256": "e81d651f4edd35646b72e849c3339543000a611b828be4600e6957b9c4b721c5",
+      "url": "https://www.njtransit.com/bus_data.zip"
+    }
+  ]
 }
