@@ -1,0 +1,23 @@
+{
+  "agency": "njtransitRail",
+  "builderAgency": "njtransit",
+  "database": {
+    "bytes": 2650146,
+    "path": "data/njtransitRail/database_db.zip",
+    "sha256": "23fcbe433f4d0a732705d41e5c61ae4e55b4fb3b0aecea406183d4be4d844bdc",
+    "url": "https://snooplsm.github.io/njrails/data/njtransitRail/database_db.zip"
+  },
+  "generatedAt": "2026-05-03T18:27:58Z",
+  "gitSha": "8d30d6a092af37c456e88c331c8763db8895780e",
+  "schemaVersion": 1,
+  "service": {
+    "dayCount": 180,
+    "end": "20261026",
+    "start": "20260430"
+  },
+  "source": {
+    "bytes": 3435661,
+    "sha256": "f0a77ed4dcc6356b71c345e57771a990ddac8e7a4778d1a22c4cd69642919015",
+    "url": "https://www.njtransit.com/rail_data.zip"
+  }
+}
