@@ -1,43 +1,43 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-05-14T16:17:55Z",
+  "generatedAt": "2026-05-16T16:18:14Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 7780880,
+    "bytes": 7774715,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "7531ce7f12e73998a7e6e1bdc36a45afb57b9dfd97880043bdc053643a35a7c2",
+    "sha256": "da51c395521ea97157247b20d5609f37a5a600b7dc9fc1b87889cd8c3cadd4a1",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
   "source": {
-    "bytes": 3435661,
-    "sha256": "f0a77ed4dcc6356b71c345e57771a990ddac8e7a4778d1a22c4cd69642919015",
+    "bytes": 5524371,
+    "sha256": "34ddb9b38a80451026c967ff198fde48910126e117279bac82accae5678d86f1",
     "url": "https://www.njtransit.com/rail_data.zip"
   },
   "sources": [
     {
-      "bytes": 3435661,
+      "bytes": 5524371,
       "name": "njtransit",
-      "sha256": "f0a77ed4dcc6356b71c345e57771a990ddac8e7a4778d1a22c4cd69642919015",
+      "sha256": "34ddb9b38a80451026c967ff198fde48910126e117279bac82accae5678d86f1",
       "url": "https://www.njtransit.com/rail_data.zip"
     },
     {
-      "bytes": 52515336,
+      "bytes": 52749673,
       "name": "njtransit-bus",
-      "sha256": "e81d651f4edd35646b72e849c3339543000a611b828be4600e6957b9c4b721c5",
+      "sha256": "a4ac1e84a3c6e8587575acac27640988dc34fb7f241c58c6ac0d0db1303735b2",
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1831594,
+      "bytes": 1672308,
       "name": "lirr",
-      "sha256": "75be5cf0bfbc6729eff803b12044ec30d8d7a4533cdd01b47ae4341fac3b2779",
+      "sha256": "a9e90aa8fb950b02369159f68f6393eca50ad02fb9c0f93cd484e217a6fca52d",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 3197225,
+      "bytes": 3205621,
       "name": "metro-north",
-      "sha256": "254c21dd60695b890fff83f6a54fcc5379e6bd9de5145664f651b8b7e03cbd2f",
+      "sha256": "9c5793e69a59a963ad470ae86c6a0283b2aca82fc67120ae2c30ab01b2fea497",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18192687,
+      "bytes": 18163441,
       "name": "amtrak",
-      "sha256": "dc04c446a1fa43d1d1ee6fc97007138455f4c42409a369bc73c769977e58247c",
+      "sha256": "8f771ddb00c97cf2a2ec7e41f689b51c04157a313cd51701574cba447541a9e3",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -73,7 +73,7 @@
     {
       "bytes": 25603,
       "name": "vre",
-      "sha256": "4205324736671f9b7321dda966b8b1bf37794e9ebc0aee140f488097f3980ea2",
+      "sha256": "141c2c3401ed47ac7a998c6eb9dbafa1b780059c649483e26b6aeac3c093c8d2",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -101,9 +101,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/local-bus"
     },
     {
-      "bytes": 834002,
+      "bytes": 834015,
       "name": "mdot-light-rail",
-      "sha256": "4d444e5f20d04ac07f4e83957d3e8c3356fb96584a06bf5b06f3d9e70c275a1d",
+      "sha256": "4150d96599bbaccb6fbd33c6fcd5d301b96c101da7d52216c08a69b2778e2b58",
       "url": "https://feeds.mta.maryland.gov/gtfs/light-rail"
     },
     {
@@ -113,15 +113,15 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/metro"
     },
     {
-      "bytes": 193865,
+      "bytes": 193308,
       "name": "marc",
-      "sha256": "71d90c34564a122a9aa72688990b8dbd17077705aebeaab7117e08e17f2a32c9",
+      "sha256": "523c4e87cf1a8f5ddeec0e8b832435982e4a11cfefc03cc2af55a35996c2c1aa",
       "url": "https://feeds.mta.maryland.gov/gtfs/marc"
     },
     {
-      "bytes": 1658327,
+      "bytes": 1653814,
       "name": "mdot-commuter-bus",
-      "sha256": "eb18dfabf56afd2acc9b3156ebe0f514285fd233d650426855ed95d3a864d504",
+      "sha256": "c40f55c4b5e574eeff58814f3ba4e422fac89dea16adb39ae4305aabbf2fcf0f",
       "url": "https://feeds.mta.maryland.gov/gtfs/commuter-bus"
     }
   ]
