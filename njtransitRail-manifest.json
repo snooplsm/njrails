@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-05-16T16:18:14Z",
+  "generatedAt": "2026-05-17T16:17:54Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 7774715,
+    "bytes": 7877764,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "da51c395521ea97157247b20d5609f37a5a600b7dc9fc1b87889cd8c3cadd4a1",
+    "sha256": "a8506f1a8bc2f02760bbed18368308f67a94073c7f67467caddc5daa422495b4",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,9 +29,9 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1672308,
+      "bytes": 1830526,
       "name": "lirr",
-      "sha256": "a9e90aa8fb950b02369159f68f6393eca50ad02fb9c0f93cd484e217a6fca52d",
+      "sha256": "57a22a81bf2f49636611014119f09e306c87da3681f9703ce88a78bc7e9db9d6",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18163441,
+      "bytes": 18388070,
       "name": "amtrak",
-      "sha256": "8f771ddb00c97cf2a2ec7e41f689b51c04157a313cd51701574cba447541a9e3",
+      "sha256": "0757e18e7e64b44c76c6037bb159215ce5b74797efe947758dbcfc95f5a6a631",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -73,13 +73,13 @@
     {
       "bytes": 25603,
       "name": "vre",
-      "sha256": "141c2c3401ed47ac7a998c6eb9dbafa1b780059c649483e26b6aeac3c093c8d2",
+      "sha256": "95a3bae4aa9e655ac5817348b973be865317e04b8662d65573d575e9c145dbe0",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
-      "bytes": 3117756,
+      "bytes": 3851615,
       "name": "nice",
-      "sha256": "e663f8edf041e1eb2fa639537cd7a436cae0361f468732f90209a71935b973ad",
+      "sha256": "737da9a67fe39e893087d0a969ae3751baf8a37d2d0b0b5de7ce750f27f28f21",
       "url": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip"
     },
     {
