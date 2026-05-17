@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-05-17T16:17:54Z",
+  "generatedAt": "2026-05-17T22:17:51Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 7877764,
+    "bytes": 7920308,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "a8506f1a8bc2f02760bbed18368308f67a94073c7f67467caddc5daa422495b4",
+    "sha256": "e05abd8ecd92624a71f43961746f2351c87e53206df64cfee24d1c4ea46517f7",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -89,9 +89,9 @@
       "url": "https://planning.westchestergov.com/images/stories/zip/GTFS.zip"
     },
     {
-      "bytes": 2792275,
+      "bytes": 3245707,
       "name": "dart",
-      "sha256": "922c88e5e85465317ec06919466083d998f6dbc7687fbefa772b73ea3b3200c6",
+      "sha256": "d62a84bcb674ca37a37bafad3583fc5faa7bb3a758c719ff14526c5da6bf71e1",
       "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip"
     },
     {
