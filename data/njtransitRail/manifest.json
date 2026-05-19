@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-05-18T16:17:51Z",
+  "generatedAt": "2026-05-19T22:17:55Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 7919211,
+    "bytes": 7920393,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "271afbfa2d77179b3183bd4f3beb3522082a7131c1a309c25032cfd69d8165b4",
+    "sha256": "e48fd631d4c2e723726727904793eaecc1b5d97f70cd725940380d75f3e8b63d",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,15 +29,15 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1830526,
+      "bytes": 1830911,
       "name": "lirr",
-      "sha256": "57a22a81bf2f49636611014119f09e306c87da3681f9703ce88a78bc7e9db9d6",
+      "sha256": "141729f31694f255e66d463a97124e23eb994d9e3263a13379f92072d1f95ceb",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 3207938,
+      "bytes": 3208132,
       "name": "metro-north",
-      "sha256": "c09b05438419cfc68350cd06d84dcd39a1e8fd1cb6d0cf74769ea81dd7654a6d",
+      "sha256": "562a2d4390e8acee6dc1da2361848fdae7fce31e3a35d96444f35ca3668066c6",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18272917,
+      "bytes": 18419106,
       "name": "amtrak",
-      "sha256": "d59aa77dc747a434a53811f78abf3939006e37c17fdc102179649e2b45b9473c",
+      "sha256": "076efb0b62c842b564e85af6d6d5d3c7c9b3a162ee4b2dcf4c97e78c37616de7",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -73,7 +73,7 @@
     {
       "bytes": 25603,
       "name": "vre",
-      "sha256": "f029312d51427bb2a5be3067daa11da4beb353143bed921acdecd7ed5d853a8b",
+      "sha256": "ba711efa4e8b9b1a08c8bcbdd650e1935c30d85fb1f0f60bc02d7012762c82c9",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
