@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-05-21T16:17:52Z",
+  "generatedAt": "2026-05-22T10:40:39Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 8151292,
+    "bytes": 8151222,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "0258abc5e474817e2e67eb1c060a4d49c4ed4345f407097e0fefb195b42c4eba",
+    "sha256": "8473073958f23eb1dc8fe9cb1b0d1e5bba873aacbe7da84ba3f9dc1d24de15bc",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -35,9 +35,9 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4153605,
+      "bytes": 4153650,
       "name": "metro-north",
-      "sha256": "3a012e8c47b9c0ad3285d3431cb4b48850b3501dbdcfb8de310ac399926b541e",
+      "sha256": "4768487b51d313ea42fe79de5039b30602315505eb20d7d65ae05c0706d43fd9",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 25604,
+      "bytes": 25603,
       "name": "vre",
-      "sha256": "53097a8fd2473e5429be3c37659102de460dedfad46a10829ecdef1fda3342c1",
+      "sha256": "c01180851b87dc2889d0cb6371e58ed31110227180acc26f45d2d9cf144abe0e",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://planning.westchestergov.com/images/stories/zip/GTFS.zip"
     },
     {
-      "bytes": 3245707,
+      "bytes": 3186805,
       "name": "dart",
-      "sha256": "d62a84bcb674ca37a37bafad3583fc5faa7bb3a758c719ff14526c5da6bf71e1",
+      "sha256": "d6940cbe4262c1e6e695e5a498d4d0fa74b5e924e61c84c808da748688447ea0",
       "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip"
     },
     {
