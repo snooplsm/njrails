@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-05-28T16:18:13Z",
+  "generatedAt": "2026-05-31T22:17:54Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 8179386,
+    "bytes": 8195292,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "24e821fb877ebeb5844a70260d06439f7bc1dbe4402c2e867c80f663143a87d7",
+    "sha256": "3865f423885218127f1b7e24ae4742a53485c8a9976f3ac272e2b18a9dc84620",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -35,9 +35,9 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4169030,
+      "bytes": 4296149,
       "name": "metro-north",
-      "sha256": "0474cc041e181bf6906384dcadb7cfce96ab4eda97bb8ab7e53c8fa1eb52d9bf",
+      "sha256": "7354cfc646af8293c466d6526fc7aee563098f05da947db6172c0d023c05daab",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18309779,
+      "bytes": 18045192,
       "name": "amtrak",
-      "sha256": "e0e26332e88fc920d599732f6d8710d0293d179e1cb14e4f8d19b8801f2941a1",
+      "sha256": "363106c6c2151367f1c1f91c8482ae5c19f4cc42f4b7202f7802af7ddf955643",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 28044,
+      "bytes": 28022,
       "name": "vre",
-      "sha256": "ca402b6c7d4da70f5ec67c09c96c7078f83f556f4d112ddb4d0f61bf9b4be252",
+      "sha256": "4008a6fb5867dad90da714acd8d4466a4732d5d373487064e33e654c03e1dbd3",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -113,9 +113,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/metro"
     },
     {
-      "bytes": 193308,
+      "bytes": 193211,
       "name": "marc",
-      "sha256": "523c4e87cf1a8f5ddeec0e8b832435982e4a11cfefc03cc2af55a35996c2c1aa",
+      "sha256": "0eb502f67befd995d64d32588bbda416ec35186b7b7519d85e41bbba4d4c596d",
       "url": "https://feeds.mta.maryland.gov/gtfs/marc"
     },
     {
