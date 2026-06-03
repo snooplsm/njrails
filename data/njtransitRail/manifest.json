@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-06-03T16:17:57Z",
+  "generatedAt": "2026-06-03T22:18:04Z",
   "gitSha": "7d4ca127760b36e877ed7be846f031563fe5bf32",
   "raptor": {
-    "bytes": 8203116,
+    "bytes": 8203390,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "18b5bf4998749abc92e107c743dbbd6669416ec4bfe9f267e2b3b17c73796a26",
+    "sha256": "18f11e2befcd142ab8d3f514444ec89d8cdfa0d588cb4113fc4fa7fd3eb50678",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -31,13 +31,13 @@
     {
       "bytes": 2230592,
       "name": "lirr",
-      "sha256": "720a43d7b09d948460a024353c0f17303b97817515d147470746d2498c133bc3",
+      "sha256": "d67e6e856503ae824e3f5e4eb07c02550df6a55444b137a920e8d96c9d355011",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4323606,
+      "bytes": 4324206,
       "name": "metro-north",
-      "sha256": "dc15a498c0bf18b17d227eddea23e8fdcc9bf94db02f64b60e041cc1a031d01d",
+      "sha256": "47da189ce5a67cfe6e77ae473c52d56d43a713f28cffcc9d0f0811306ee6b836",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -113,9 +113,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/metro"
     },
     {
-      "bytes": 193211,
+      "bytes": 193163,
       "name": "marc",
-      "sha256": "0eb502f67befd995d64d32588bbda416ec35186b7b7519d85e41bbba4d4c596d",
+      "sha256": "10d5564df6befee6fad2185913270e428ee1dbe54a8671246b1976c77cd68049",
       "url": "https://feeds.mta.maryland.gov/gtfs/marc"
     },
     {
