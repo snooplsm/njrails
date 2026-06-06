@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-06-06T16:18:02Z",
+  "generatedAt": "2026-06-06T22:17:55Z",
   "gitSha": "2adf3eb24089d135c87645d26563c01d84d2301b",
   "raptor": {
-    "bytes": 8224244,
+    "bytes": 8223022,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "0c55eeabaa7e126cb678f7daca977e98240d7078fb4729458754b2caf7935985",
+    "sha256": "258d9089d356a5f79f9c5838d46fb2a61f3e50d371ea4cd17c7840d8ad1a48d0",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -77,9 +77,9 @@
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
-      "bytes": 3851615,
+      "bytes": 3802014,
       "name": "nice",
-      "sha256": "737da9a67fe39e893087d0a969ae3751baf8a37d2d0b0b5de7ce750f27f28f21",
+      "sha256": "9c06c63ce41dff0a8d3fae051953b7967f5b0c3b7e23df0d7b87e04a5c041c88",
       "url": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip"
     },
     {
@@ -95,9 +95,9 @@
       "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip"
     },
     {
-      "bytes": 6274724,
+      "bytes": 6274687,
       "name": "mdot-local-bus",
-      "sha256": "6f9594aff615336c4d81daa08d7543da80a704b9492bbc27acc27e04fef112eb",
+      "sha256": "b8d6eb1efe82a178f8f5a64e9698bc3aef1a60b21f9887d6e83eefcb6a0d69f3",
       "url": "https://feeds.mta.maryland.gov/gtfs/local-bus"
     },
     {
