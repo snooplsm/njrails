@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-06-18T10:18:07Z",
+  "generatedAt": "2026-06-18T16:18:22Z",
   "gitSha": "bbe92832449500c3a1dce7806800bbf54691ecf5",
   "raptor": {
-    "bytes": 9812072,
+    "bytes": 9561759,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "21fc0da58803aa3404f07e34d68a7e25cc0c8fada3391df0a3434bbb6c75306e",
+    "sha256": "bb7ea40835228501276f100c865873b10444d8f088432534186934fafb7bea7a",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -35,9 +35,9 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4806293,
+      "bytes": 3528310,
       "name": "metro-north",
-      "sha256": "8697338f80acde1d77be5d12961a7ad5a85b6aa7ee771ea7f5972b407ef79adb",
+      "sha256": "35381f8d85dd765f0e00339c509db4543920e9ec3db62f33688feb938740576f",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18208300,
+      "bytes": 18280490,
       "name": "amtrak",
-      "sha256": "4001ce065dbd57d9ff215449a90fe0e076156c14a0e5e175b519a41d195065d5",
+      "sha256": "baad83fd1a28f0f30ab362b18e64b4a222b8e508e352a71101fefc595ffd1faf",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -65,9 +65,9 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfs_subway.zip"
     },
     {
-      "bytes": 49696,
+      "bytes": 64731,
       "name": "patco",
-      "sha256": "4a864996fac595bfc0d02d2d428dceb97f9787237d20c811341507cda915e632",
+      "sha256": "f1512a930104efa39107118ac230fd139a77d02c5dec553bd859fe92aeb8a64d",
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
