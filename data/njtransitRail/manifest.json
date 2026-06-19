@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-06-18T16:18:22Z",
+  "generatedAt": "2026-06-19T10:18:07Z",
   "gitSha": "bbe92832449500c3a1dce7806800bbf54691ecf5",
   "raptor": {
-    "bytes": 9561759,
+    "bytes": 9561034,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "bb7ea40835228501276f100c865873b10444d8f088432534186934fafb7bea7a",
+    "sha256": "ae969a29be0fc5dc1511499b0ada80426328ebae76a9b12a5f0d1885dfde1659",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 26998,
+      "bytes": 26999,
       "name": "vre",
-      "sha256": "754613ba44f2c8caaf174d16cf5abe134c7f81a17a013efd7aee282662610bf6",
+      "sha256": "21abd25b53025b3c92daa0f7c603ba03bf0beb11273b0f13e7cf58381a72f3b7",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -119,9 +119,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/marc"
     },
     {
-      "bytes": 1653814,
+      "bytes": 1653879,
       "name": "mdot-commuter-bus",
-      "sha256": "c40f55c4b5e574eeff58814f3ba4e422fac89dea16adb39ae4305aabbf2fcf0f",
+      "sha256": "115450e45b039ae1351ada0fd6e90287709d57128e25bb099d959f780a631856",
       "url": "https://feeds.mta.maryland.gov/gtfs/commuter-bus"
     }
   ]
