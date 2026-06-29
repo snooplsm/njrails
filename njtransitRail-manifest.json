@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-06-29T16:18:09Z",
+  "generatedAt": "2026-06-29T22:18:04Z",
   "gitSha": "bbe92832449500c3a1dce7806800bbf54691ecf5",
   "raptor": {
     "bytes": 9460727,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "eadfb0b07a78d6d493e7137459572e9b62fc6977e814bc2ff286a9911d71b918",
+    "sha256": "212ff539b19c5d9975f51648211a0a7ccef4c18e5f1626a36e45d50d2a4e8b2c",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
