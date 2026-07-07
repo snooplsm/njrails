@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-07-06T22:18:12Z",
+  "generatedAt": "2026-07-07T04:18:01Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8780412,
+    "bytes": 8780980,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "a92fa9a5b20714d66e12a4d03150d1719492f9e508ba65b0fdb776025c7adf47",
+    "sha256": "7c1914b19a3d99170d23fe0d846bc5c665f94a9570b2eeb333005230d7bc64d6",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -73,7 +73,7 @@
     {
       "bytes": 25602,
       "name": "vre",
-      "sha256": "cab2e93821ec4937f9e571ad982236f89f74d537fffbaa8d627daa63fa7c3bc9",
+      "sha256": "db9ea473899873b4ca900c8a16e5c1b38fb24f105814497ebfc3569a2ef27498",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -95,9 +95,9 @@
       "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip"
     },
     {
-      "bytes": 5921210,
+      "bytes": 5925419,
       "name": "mdot-local-bus",
-      "sha256": "1a08302f1cfe03b48c18513505b9edadac64f15b1c40dcd986493f753846412c",
+      "sha256": "6608a628fb4727d6605cdfa8dc04c86fed9c9bf11679620f5cd4f4e0f571a85a",
       "url": "https://feeds.mta.maryland.gov/gtfs/local-bus"
     },
     {
