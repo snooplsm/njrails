@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-07-07T22:18:05Z",
+  "generatedAt": "2026-07-08T04:19:05Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8782070,
+    "bytes": 8786254,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "22fde11a554794bb007cecd2a27bd4ba16c6251a9a93036634c7e54960cb2b7d",
+    "sha256": "50ad457e7b14698eb67fec434f59efee32b9e0341f7a28573f4754bee42017ed",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -73,7 +73,7 @@
     {
       "bytes": 25602,
       "name": "vre",
-      "sha256": "db9ea473899873b4ca900c8a16e5c1b38fb24f105814497ebfc3569a2ef27498",
+      "sha256": "4539e7b83a9c4436026192ea07eb3d555b313f78f79fdf5f42b5ba0c536ee23e",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -101,9 +101,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/local-bus"
     },
     {
-      "bytes": 834022,
+      "bytes": 704270,
       "name": "mdot-light-rail",
-      "sha256": "5b02678ddfa192539ea09344b06b7e029f441d0df9b59e94e7da8fb554325884",
+      "sha256": "35770254526f117d0f4df8c870380584ff806f12cab55586a82590c5a5e6af0b",
       "url": "https://feeds.mta.maryland.gov/gtfs/light-rail"
     },
     {
