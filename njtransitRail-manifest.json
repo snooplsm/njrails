@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-07-08T16:18:27Z",
+  "generatedAt": "2026-07-09T22:18:00Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8784869,
+    "bytes": 8370677,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "0e297b4c89aeaf65fdf7c917d0d9c3bffd7cb69f76bfbecc2d7747a17a455624",
+    "sha256": "f71085ed515fcb35e27b566c174fcb694feb3c0258a1c3297cfeff902de54d54",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -23,21 +23,21 @@
       "url": "https://www.njtransit.com/rail_data.zip"
     },
     {
-      "bytes": 59563568,
+      "bytes": 50882527,
       "name": "njtransit-bus",
-      "sha256": "dafb95e8c171680d117bb2e3a682fdf9acc66c6eb6dc5fc77bfad802edbbeae8",
+      "sha256": "dedeeb9150f779bbbb67a0977ef545ed7d23915e09130f065d7ff91533d3a91c",
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 2610395,
+      "bytes": 1838290,
       "name": "lirr",
-      "sha256": "a8d94e1a2b95cb802041a8b0b82385a3888ba5f21de7511917dd5757dd70d6ac",
+      "sha256": "157c56e36b3bf4cac64f984f0847c8f3a40c83776561e5d23e31cedba284d9e3",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 5270016,
+      "bytes": 4322214,
       "name": "metro-north",
-      "sha256": "1bf4580b5f47e65ab47182065075337f55bf48fc9760da57ba3eede170023b7a",
+      "sha256": "c0c3194f537113584c16639f02b3847ffa29d0694f042604342632f2195becef",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18509241,
+      "bytes": 18514245,
       "name": "amtrak",
-      "sha256": "5d1d9ba040572fe57952c55d33a3d919f82d47ab302622ea23440c7a877b61fb",
+      "sha256": "7f8db98db030c7812ec0f068a447d69e798ae626739d8fed4bb4cf1ea7fa67d3",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 25602,
+      "bytes": 25605,
       "name": "vre",
-      "sha256": "4539e7b83a9c4436026192ea07eb3d555b313f78f79fdf5f42b5ba0c536ee23e",
+      "sha256": "619a9d511cda03f06907bcc0af34619030b3799555215a1b7ca63a1f16201301",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -101,9 +101,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/local-bus"
     },
     {
-      "bytes": 704270,
+      "bytes": 834022,
       "name": "mdot-light-rail",
-      "sha256": "35770254526f117d0f4df8c870380584ff806f12cab55586a82590c5a5e6af0b",
+      "sha256": "5b02678ddfa192539ea09344b06b7e029f441d0df9b59e94e7da8fb554325884",
       "url": "https://feeds.mta.maryland.gov/gtfs/light-rail"
     },
     {
