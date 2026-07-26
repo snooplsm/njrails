@@ -1,7 +1,7 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-07-25T22:59:23Z",
+  "generatedAt": "2026-07-26T04:17:58Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
     "bytes": 8244083,
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 25611,
+      "bytes": 25609,
       "name": "vre",
-      "sha256": "4b226f63239a17b91e918134e2866a544ae4d4510e372d3c5d0b5120ebec52cd",
+      "sha256": "a9f046cf12a2e697a2a9b8d871c0beae219447b4cab0e740a4aee6182bcc0f27",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
