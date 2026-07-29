@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-07-29T10:17:58Z",
+  "generatedAt": "2026-07-29T16:18:06Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8223351,
+    "bytes": 8241140,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "31a99b0e55e7d4c4d07d0bc217ee2de74538439eb63e0087946ad776e347fd57",
+    "sha256": "90e8e029fc103456b6beb7788bd5da3c405579e948d54528af3f99e1d0757a60",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,15 +29,15 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1825419,
+      "bytes": 1841110,
       "name": "lirr",
-      "sha256": "a413955d876f82f47eb1bfcb62aca17e08e1e52573009aa6ce0b1d208897a49c",
+      "sha256": "fb25d9292486593923b10d3effdade92b644098b9bfca05d6c7adcbf95efd7c0",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4454186,
+      "bytes": 4479669,
       "name": "metro-north",
-      "sha256": "8c85317f59a80a00aa7c8863c7726fe320c64374bd00dd4162de4d0bd72cc5b1",
+      "sha256": "d14761b36a7098db50e0da5623edeefd69449c5c8517a4b1b7a109668c2a3bb1",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 19281452,
+      "bytes": 19282625,
       "name": "amtrak",
-      "sha256": "f6bf7b28a7a2e40abf0ab0a2ee184819bbe5493016daed0dc25812760560a956",
+      "sha256": "ecd4d262739a1a21a3362240d7be4750288a928d4a2d48ca12a6e303b77f80b3",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
