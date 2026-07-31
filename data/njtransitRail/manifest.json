@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-07-31T16:17:57Z",
+  "generatedAt": "2026-07-31T22:17:51Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8224536,
+    "bytes": 8224544,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "7707c2b57e118c858ba250465fafd89a48fa19ba3f8edd47c52d1edfc192f85b",
+    "sha256": "ba9d5a3076e81d5c2337d15cbf4cd2d92b3a37d3d6a3fbd6f05ccefa97b21cff",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -59,9 +59,9 @@
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
-      "bytes": 5614607,
+      "bytes": 5162884,
       "name": "mta-subway",
-      "sha256": "c9c3366cdd16a27b3be8f4fcf3de5433bc65ca744c9c91f7c9cb4ec3267a5f40",
+      "sha256": "eef256a4852f76ced20978834b8921467222f915e03680dbb4f805d9aa95804f",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfs_subway.zip"
     },
     {
