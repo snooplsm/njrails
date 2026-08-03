@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-08-03T04:17:50Z",
+  "generatedAt": "2026-08-03T10:17:55Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8090930,
+    "bytes": 8090943,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "90412f04263c232b253dd5eb7633b84b49b251c2db012d06a9110c4320072163",
+    "sha256": "682693cd23420e59b3defbd4333c544d7717dedd5974e8d8d07aa1e6f2d5396a",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -77,9 +77,9 @@
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
-      "bytes": 3191743,
+      "bytes": 3193083,
       "name": "nice",
-      "sha256": "20714179a123fcc2518f484ef0c94bfabcd1b1bf7aa181dc7722445aac12679c",
+      "sha256": "9130b443b63b6ebe38fd85a629e078424b3eeab13f4bfa32814ea673f674a203",
       "url": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip"
     },
     {
