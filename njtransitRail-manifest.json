@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-08-04T16:17:47Z",
+  "generatedAt": "2026-08-05T10:21:24Z",
   "gitSha": "ee7d1c07dbd8679f4cf1d01a44af38d31b276352",
   "raptor": {
-    "bytes": 8092208,
+    "bytes": 8090618,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "e6b7ecf8eaf40559b647e528c49f7aed44589db446dadcfc51dcfe61221b301c",
+    "sha256": "7f8d7a7c2aa9a3764e0e429b01a4e5923e26b39febc99f7d902a9df43bc9fe8b",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -35,15 +35,15 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 3689307,
+      "bytes": 3689725,
       "name": "metro-north",
-      "sha256": "664fbd81dbcf94dd75472d2cee068710811e712c9af8b8a60d4f61d108c19be5",
+      "sha256": "67580fc3b13c0dae76706c11fc915b305de8c4a4531e0bd4210bc2e80ecaa6fa",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
-      "bytes": 20716970,
+      "bytes": 20767898,
       "name": "septa",
-      "sha256": "7deb9596c49bda8c073a92ae792f702feaa2aaa28c317f8a81657a1d1605ce6a",
+      "sha256": "1f69e4ad887dd97af3905e49ae7d27fb341401e156adbc809f8ef6890de7cd8d",
       "url": "https://github.com/septadev/GTFS/releases/latest/download/gtfs_public.zip"
     },
     {
@@ -73,7 +73,7 @@
     {
       "bytes": 25611,
       "name": "vre",
-      "sha256": "57e67129e5975b8e1472010ab53ffcdfe90781f32c9606604a1eb39c02e24da2",
+      "sha256": "f493a6a794fb3fd0f79653f96dbb50980cbeb5b0dd20aa2ac2db7f3cdce0cbc4",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
