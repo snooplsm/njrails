@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-10-16T03:08:07Z",
+  "generatedAt": "2026-10-16T14:28:35Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9286686,
+    "bytes": 9289548,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "7aace25a93054c3c938fab7601faf911a93e9eff323fe2fd73974ffdf308b08e",
+    "sha256": "344653278acdc53648e14c4dda6817a5ea2af052fc4ea1dcbab47190562951ed",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -35,9 +35,9 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4337601,
+      "bytes": 4367003,
       "name": "metro-north",
-      "sha256": "24ba12f087d105be456a1fb42ef580905de9c6b7b53ab422616ab528fde2261d",
+      "sha256": "54e8ceeb959febd2f8106f6b598ad4fd55e8271061b34cd753344feba5e0a372",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 28787,
+      "bytes": 27239,
       "name": "vre",
-      "sha256": "0fbb48b174df974e6fd48b7c2d54cb80aa44d306c9f702012fcfbc87e368edf0",
+      "sha256": "422ce1cf5f0670d4fbcc645a8ff2b50bcae7369b52043127c7f50799c59ff512",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
