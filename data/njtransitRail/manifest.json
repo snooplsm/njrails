@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-10-21T08:09:38Z",
+  "generatedAt": "2026-10-22T00:38:19Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9407160,
+    "bytes": 9406776,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "bdba1e885889d0f55c16d88a10d87a914c707f95e9d35fa77210da545e7ea7f6",
+    "sha256": "fbfadb911fd012bcb941de4fd9bb2bf7c0bf612f85fc68b2acc321e71caa90ef",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -23,21 +23,21 @@
       "url": "https://www.njtransit.com/rail_data.zip"
     },
     {
-      "bytes": 49841237,
+      "bytes": 49838859,
       "name": "njtransit-bus",
-      "sha256": "f1ff74876ffb730b3943c6f163a4d9630bfa214ca9afa349cde89ee029e85f67",
+      "sha256": "220b83fe55f43fb79b38ec49fdbdf139c157b081c6f9bfbbfbfdb6d584cd864f",
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1719814,
+      "bytes": 1722111,
       "name": "lirr",
-      "sha256": "18a29430ef6af2fd07043d3bd67502e889e3eab1828a6df4b923c53dd2b30610",
+      "sha256": "11b080e1e645ce0e899bdd79f7be52adcf6c8004816a6196a916b5a18bad9f12",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4434682,
+      "bytes": 4434782,
       "name": "metro-north",
-      "sha256": "1db125fbb01130173739340dbbaee6ef49a26b982b6ea4b75e7afea8368b934c",
+      "sha256": "a866b8c49e78896fc8233281e6869d7fcba41df3669838f44bdfedbd30577c62",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18790478,
+      "bytes": 18793696,
       "name": "amtrak",
-      "sha256": "1965d0242646a1ac3a9748ff2e1ae2a9cd2251e502012066121900d600dd5ef5",
+      "sha256": "14ab06e539f768d19c2b8a3d84269a961e6755e4f1811aa16b9aae90ebbcd5b8",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
