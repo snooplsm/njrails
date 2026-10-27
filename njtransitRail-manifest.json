@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-10-26T19:28:08Z",
+  "generatedAt": "2026-10-27T03:49:13Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9926014,
+    "bytes": 9926330,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "0f5fdc56bd478604483d07de2a8cd8511ea1df52f774dd8729b50b9fa7a61c62",
+    "sha256": "3637c6b7c1411679b6329d44f7f65e6eb909fb831593af1351728546a9e8c3e6",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -119,9 +119,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/marc"
     },
     {
-      "bytes": 1668879,
+      "bytes": 1648443,
       "name": "mdot-commuter-bus",
-      "sha256": "34881a16e17fdd84802946db665c4b2d1adb091f9f50285587486c0ad0e0f8b8",
+      "sha256": "6da563041b0125e4674de8dc8e554cde74e655eed3139a7b2316c53fa57afd5d",
       "url": "https://feeds.mta.maryland.gov/gtfs/commuter-bus"
     }
   ]
