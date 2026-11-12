@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-11-12T16:15:30Z",
+  "generatedAt": "2026-11-12T16:17:42Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9930161,
+    "bytes": 9931298,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "13856c981a8d64a8da8b45b385d5547092f14e2222ff4237c906ddb3288b22a0",
+    "sha256": "6b6cdd034971bc458b15c1a05b9f461909f07b5c4a5999c5d185009d0d22ffc2",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,15 +29,15 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1974654,
+      "bytes": 1828527,
       "name": "lirr",
-      "sha256": "568426ccf0d187fcba738d20ae03785d57daff4d5c188441bf599c284461f362",
+      "sha256": "5ec43d73079ba798d5877240e8f5740b4d68853edfdf510ef38257d31638d232",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 4417880,
+      "bytes": 4390067,
       "name": "metro-north",
-      "sha256": "0ca3ac3a22406593e5cf943898cfee9742ec9c0fe9506d061b58dbd8a03805af",
+      "sha256": "01b64bd683de3e9df44526ee436906cd8b481285b8c6a384781ad42b0abcdad2",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18580077,
+      "bytes": 18561744,
       "name": "amtrak",
-      "sha256": "51f38d6748d3962b15bc39f3c2374050534be686ea70e4b26f576491e9317f79",
+      "sha256": "4b107660a5c7410ec3968263238273629da5d34f0f308bbc50169b031b71758d",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 25711,
+      "bytes": 25708,
       "name": "vre",
-      "sha256": "7bc2784af82d480e98741d3ac28aa2126f7e8033db89769b00821ca008e478a9",
+      "sha256": "4fb32f660ce93951b5505a8438873c7112bc514320c031a6c3541c2cba011414",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://s3.amazonaws.com/datatools-511ny/public/Westchester_County_Bee-Line_System.zip"
     },
     {
-      "bytes": 3186805,
+      "bytes": 2695428,
       "name": "dart",
-      "sha256": "d6940cbe4262c1e6e695e5a498d4d0fa74b5e924e61c84c808da748688447ea0",
+      "sha256": "2c11da7d6d12c2af0eee252e01d8e99b2997abce5e063a452532369021f47d6e",
       "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip"
     },
     {
