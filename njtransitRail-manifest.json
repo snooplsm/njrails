@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-11-15T11:52:31Z",
+  "generatedAt": "2026-11-15T21:10:00Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9928295,
+    "bytes": 9942584,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "54e524c8aad129ebffcdbbd920bcb38abc58d51ac7a46b67b2bf54220c9b5f48",
+    "sha256": "e8e5b94d02f4b9e93dac8dbbb4a44b7b5ea77334b2ee34dd99e06ec99d19144f",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18496409,
+      "bytes": 18575994,
       "name": "amtrak",
-      "sha256": "03ff4469ee67a1aecc6b15543cecd4ba553959434d6efda7e82de62705c12cfe",
+      "sha256": "8dcbded0688a1779861a0085254a661a210c09e905247f4a71fa9a0610e25816",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -89,9 +89,9 @@
       "url": "https://s3.amazonaws.com/datatools-511ny/public/Westchester_County_Bee-Line_System.zip"
     },
     {
-      "bytes": 2695428,
+      "bytes": 2758449,
       "name": "dart",
-      "sha256": "2c11da7d6d12c2af0eee252e01d8e99b2997abce5e063a452532369021f47d6e",
+      "sha256": "cd7a75ca0ee5b9db5fcbcf4e85f432fd15674247425d25f3990af88b99aded47",
       "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip"
     },
     {
