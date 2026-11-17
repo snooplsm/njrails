@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-11-15T21:10:00Z",
+  "generatedAt": "2026-11-17T01:13:49Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9942584,
+    "bytes": 9937059,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "e8e5b94d02f4b9e93dac8dbbb4a44b7b5ea77334b2ee34dd99e06ec99d19144f",
+    "sha256": "7876eb7d18df732983a4d57586895ab8236f74bed16ab5253ec632f8b34be117",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,9 +29,9 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1828527,
+      "bytes": 1712621,
       "name": "lirr",
-      "sha256": "5ec43d73079ba798d5877240e8f5740b4d68853edfdf510ef38257d31638d232",
+      "sha256": "c07d30eec656023abd2452ff40adaf9c055114b3a68cbb46b5dcc0ce07f76999",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18575994,
+      "bytes": 18507527,
       "name": "amtrak",
-      "sha256": "8dcbded0688a1779861a0085254a661a210c09e905247f4a71fa9a0610e25816",
+      "sha256": "908a841302b6e6a4bb9e442d8404b62230a04f5af3f1686cd34ade7c0ae43f9e",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -73,13 +73,13 @@
     {
       "bytes": 25709,
       "name": "vre",
-      "sha256": "4883eb6b3bc236f60a26d25e884e2d0324ee3f2f50d7a67bdf8d58f0833b72f5",
+      "sha256": "9c5d70d4b7a86c820918a828ebdf62ce4a8a9368bf53332298eaacf0afe154d8",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
-      "bytes": 4124225,
+      "bytes": 4139993,
       "name": "nice",
-      "sha256": "ab05372a63d8b18d7cd0543475a52507cef5bc34152843d7507ed8ca6a6f1095",
+      "sha256": "80c30037bc23871839eabed38edf2d8e19d0b3db43b3d94211a35c2e100fc506",
       "url": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip"
     },
     {
@@ -113,9 +113,9 @@
       "url": "https://feeds.mta.maryland.gov/gtfs/metro"
     },
     {
-      "bytes": 263109,
+      "bytes": 263151,
       "name": "marc",
-      "sha256": "28aad239a63ec7cd1c0e353228e984745e00819857219f108ff2ea74e2e49805",
+      "sha256": "8473a38603d27249dc753f39c2a2266c5502c3252e0c4b6f14745da1564b69a7",
       "url": "https://feeds.mta.maryland.gov/gtfs/marc"
     },
     {
