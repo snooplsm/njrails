@@ -1,25 +1,25 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-11-19T20:46:43Z",
+  "generatedAt": "2026-11-20T16:59:14Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9908356,
+    "bytes": 9865520,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "33ef9daabf032d1f3a14ecfe2a4aeae25e5026706ac172f108bbb5c414c6afd1",
+    "sha256": "a5d84fe27f437fc3aa340397395d01aa07b87116263d69c7113ab02530f85190",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
   "source": {
-    "bytes": 6380384,
-    "sha256": "0b0c31986a080e183955b3fe96bc537cf3beafceaf5587605aa47fe1938f975d",
+    "bytes": 3316038,
+    "sha256": "99ec46b5279860edada2b23a8c7a33e6c660a3464b34ab9ade5c8b4d4099c211",
     "url": "https://www.njtransit.com/rail_data.zip"
   },
   "sources": [
     {
-      "bytes": 6380384,
+      "bytes": 3316038,
       "name": "njtransit",
-      "sha256": "0b0c31986a080e183955b3fe96bc537cf3beafceaf5587605aa47fe1938f975d",
+      "sha256": "99ec46b5279860edada2b23a8c7a33e6c660a3464b34ab9ade5c8b4d4099c211",
       "url": "https://www.njtransit.com/rail_data.zip"
     },
     {
@@ -29,9 +29,9 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1712621,
+      "bytes": 1712595,
       "name": "lirr",
-      "sha256": "c07d30eec656023abd2452ff40adaf9c055114b3a68cbb46b5dcc0ce07f76999",
+      "sha256": "5de90b2c01219a6a4b144c88c9133de891379a18a2dfbb30d0579185091de253",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18715455,
+      "bytes": 18801223,
       "name": "amtrak",
-      "sha256": "7de5fbea860903a29ccfbb1740a8c074e28a08d8d062d8454e7fb7901831fa17",
+      "sha256": "c45a998cb02f0f75122c2f20b88503776abf027051e3e8d494ee16e8962b5c4c",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -73,7 +73,7 @@
     {
       "bytes": 25717,
       "name": "vre",
-      "sha256": "00205886d9e8bc29267826f3425f07e051262fa9a4b0200e111abcfcfbe88528",
+      "sha256": "2dd84efce7925a6246ecec7da21597bc2f08259621acb8dbe02e4109068ee98c",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
