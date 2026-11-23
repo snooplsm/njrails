@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-11-23T14:19:00Z",
+  "generatedAt": "2026-11-23T21:18:02Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9711380,
+    "bytes": 9560236,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "85870088be7df59a68316077a84cdcdb21f6a71722eb64fc52e20384dca4f94d",
+    "sha256": "d506e77b4cbcc9ea9f760f727fff3c50c4b6e4549d6430cc970fb276c9d27a81",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,9 +29,9 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1712595,
+      "bytes": 1691830,
       "name": "lirr",
-      "sha256": "5de90b2c01219a6a4b144c88c9133de891379a18a2dfbb30d0579185091de253",
+      "sha256": "92a3e0157f7efa42d8ac8dae81701c4ef99e23b80e4ed3e167f3fadd74685e8a",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18887160,
+      "bytes": 18882086,
       "name": "amtrak",
-      "sha256": "3ddbe32afb49a7a115820532ea5e00fb496e4d6d4883658c3bbd9a3c025e75f1",
+      "sha256": "a02cd863ea7e425e27f2aca56dc035c7687366561cf73dac41b949825edc0a72",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -65,9 +65,9 @@
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfs_subway.zip"
     },
     {
-      "bytes": 74859,
+      "bytes": 75073,
       "name": "patco",
-      "sha256": "73b98fbc26b62ecb2849c326cad37960b4006cffdf93ff1b5049e74e55a84b6a",
+      "sha256": "e24679570eeb6dacd86ab23a0e7bcdceb75df9bfcd43b6892bf4b179db198794",
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
@@ -83,9 +83,9 @@
       "url": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip"
     },
     {
-      "bytes": 6916073,
+      "bytes": 4297322,
       "name": "beeline",
-      "sha256": "200b0d57555b99b135ddb452857b7ee9cd502709c497bb958bec8fdac6119be1",
+      "sha256": "9b8141e45ef03fb5353a15eec5ab3e562b1cfeeba4241619852a6d9e1f448c0b",
       "url": "https://s3.amazonaws.com/datatools-511ny/public/Westchester_County_Bee-Line_System.zip"
     },
     {
