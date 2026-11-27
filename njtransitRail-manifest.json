@@ -1,12 +1,12 @@
 {
   "agency": "njtransitRail",
   "builderAgency": "njtransit",
-  "generatedAt": "2026-11-25T18:34:17Z",
+  "generatedAt": "2026-11-27T15:24:09Z",
   "gitSha": "02baad0383f9c6b6cec0d61a150377a064af3633",
   "raptor": {
-    "bytes": 9533194,
+    "bytes": 9536962,
     "path": "data/njtransitRail/raptor_pack.hsrp",
-    "sha256": "76e397e73a347e1147d65b6241534efc3066050b97f33169e749f0b7053eaefa",
+    "sha256": "f9c9710a12e0f160ddd0db9e266c81a47533e32508317360d231dc1e00a23592",
     "url": "https://snooplsm.github.io/njrails/data/njtransitRail/raptor_pack.hsrp"
   },
   "schemaVersion": 1,
@@ -29,15 +29,15 @@
       "url": "https://www.njtransit.com/bus_data.zip"
     },
     {
-      "bytes": 1692168,
+      "bytes": 1692161,
       "name": "lirr",
-      "sha256": "37f56850c5a09d42d276086e927ef8c069a24146924479b7dc5b8bd0a8d17e35",
+      "sha256": "f5be46bb1783234761c46502cad06b210ed2493c57f6c97088fa46ca68181e3a",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip"
     },
     {
-      "bytes": 3958701,
+      "bytes": 3979272,
       "name": "metro-north",
-      "sha256": "2c0546536463f3fada80707c8b89494afb0560d7eb5505a5255a2d30054f975c",
+      "sha256": "876cc3f32c3ae0a44e169e06f4fdf3eca4e95046524ac785c08e08ba22429323",
       "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip"
     },
     {
@@ -53,9 +53,9 @@
       "url": "https://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip"
     },
     {
-      "bytes": 18922543,
+      "bytes": 18797360,
       "name": "amtrak",
-      "sha256": "aea3c9c1c2a280d2814be769c5ed82b201d6a689219905240dea5f9a4e96c4a2",
+      "sha256": "f40991ea3737765493c4b1922a385f30ba86cd445346922e8591fc19b6d572bc",
       "url": "https://content.amtrak.com/content/gtfs/GTFS.zip"
     },
     {
@@ -71,9 +71,9 @@
       "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13562/PATCO_GTFS.zip"
     },
     {
-      "bytes": 25717,
+      "bytes": 25715,
       "name": "vre",
-      "sha256": "4e94f841b9d428bc0e28f26142b201104ff2b66674cdd2a75fa5e0f0981c22cc",
+      "sha256": "9e975480c3c3d01db81e94686051b80f6dc5fa54a314a5e0e3c75dc9f6769837",
       "url": "https://gtfs.vre.org/containercdngtfsupload/google_transit.zip"
     },
     {
